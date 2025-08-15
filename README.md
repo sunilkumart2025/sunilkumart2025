@@ -8,7 +8,7 @@
 A developer from India learning every day.
 
 
-<div align="left">
+<div align="left" style="padding: 10px;">
   <a href="https://www.instagram.com/_.sunil._25?igsh=dTh5ZHJ0ZWRoMWN5" target="_blank">
     <img src="https://raw.githubusercontent.com/sunilkumart2025/sunilkumart2025/refs/heads/main/src/icons/instagram.jpg" height="35" alt="Instagram" />
   </a>
