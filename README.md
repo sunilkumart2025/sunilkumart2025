@@ -13,10 +13,6 @@ A developer from India learning every day.
 ![GitHub Streak](https://streak-stats.demolab.com?user=sunilkumart2025&theme=radical&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumart2025&layout=compact&theme=radical)  
 
-## 🎯 Notable Contributions
-[![@ovh](https://img.shields.io/badge/-OVH-000?style=flat&logo=github)](https://github.com/ovh)
-[![@denoland](https://img.shields.io/badge/-DenoLand-000?style=flat&logo=github)](https://github.com/denoland)  
-
 ## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunilkumart2025&theme=react-dark)  
 
