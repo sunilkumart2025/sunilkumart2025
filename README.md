@@ -1,5 +1,7 @@
-<p align="center"><a><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
+<h1 align="center"> 👋 </h1>
+<div align="center">
+  <img src="header-banner.png" alt="header"/>
+</div>
+<p align="center"> (Open for Hiring)</p>
 
 I'm a self-taught passionate FrontEnd developer from India 🇮🇳
