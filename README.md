@@ -8,7 +8,7 @@
 A developer from India learning every day.
 
 ---
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 ---
 ### 🛠 **Tech Stack**
 <div align="left">
