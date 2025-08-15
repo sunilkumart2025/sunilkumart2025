@@ -4,4 +4,4 @@
 </div>
 <p align="center"> (Open for Hiring)</p>
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+A developer from India learning every day.
