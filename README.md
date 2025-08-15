@@ -7,6 +7,20 @@
 
 A developer from India learning every day.
 
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+## 🎯 Notable Contributions
+[![@ovh](https://img.shields.io/badge/-OVH-000?style=flat&logo=github)](https://github.com/ovh)
+[![@denoland](https://img.shields.io/badge/-DenoLand-000?style=flat&logo=github)](https://github.com/denoland)
+
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+
+## 🏆 Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=gruvbox)
 ---
 ![](./profile-3d-contrib/profile-night-green.svg)
 ---
