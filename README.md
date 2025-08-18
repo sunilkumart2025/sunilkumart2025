@@ -13,8 +13,6 @@ A developer from India learning every day.
 ![GitHub Streak](https://streak-stats.demolab.com?user=sunilkumart2025&theme=radical&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumart2025&layout=compact&theme=radical)  
 
-## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunilkumart2025&theme=react-dark)  
 
 ## 🏆 Achievements
 ![Trophies](https://github-profile-trophy.vercel.app/?username=sunilkumart2025&theme=gruvbox)
